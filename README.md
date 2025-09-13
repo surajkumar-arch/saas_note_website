@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 SaaS Notes App (React + Express)
 ================================
 
@@ -41,3 +42,6 @@ Default envs:
 - backend/.env (example provided)
 
 Zip created at: /mnt/data/saas-notes-app.zip
+=======
+# saas_note_website
+>>>>>>> 57ec5a3ac8916d41b4abd00d0268ab406316a7c7
